@@ -1,0 +1,10 @@
+nom = input("Mahsulot: ")
+narx = float(input("Narx: "))
+soni = int(input("Soni: "))
+
+print("--------- CHEK ---------")
+print("Mahsulot:", nom)
+print(f"Narx: {narx} so'm")
+print("Soni:", soni)
+print(f"Jami: {narx * soni} so'm")
+print("------------------------")

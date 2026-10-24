@@ -1,0 +1,5 @@
+narx = float(input("Narx: "))
+soni = int(input("Soni: "))
+print(f"1 dona: {narx} so'm")
+print(f"Soni: {soni} ta")
+print(f"Jami: {narx * soni} so'm")
